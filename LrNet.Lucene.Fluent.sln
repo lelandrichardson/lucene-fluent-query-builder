@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LrNet.Lucene.Fluent", "LrNet.Lucene.Fluent.csproj", "{172996C4-CB1B-4344-A4BE-397FFC8D50F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LrNet.Lucene.Fluent", "LrNet.Lucene.Fluent\LrNet.Lucene.Fluent.csproj", "{172996C4-CB1B-4344-A4BE-397FFC8D50F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LrNet.Lucene.Fluent.Tests", "LrNet.Lucene.Fluent.Tests\LrNet.Lucene.Fluent.Tests.csproj", "{B1A828F2-0CF6-4C5E-A774-9B9386757365}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{172996C4-CB1B-4344-A4BE-397FFC8D50F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{172996C4-CB1B-4344-A4BE-397FFC8D50F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{172996C4-CB1B-4344-A4BE-397FFC8D50F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1A828F2-0CF6-4C5E-A774-9B9386757365}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A828F2-0CF6-4C5E-A774-9B9386757365}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A828F2-0CF6-4C5E-A774-9B9386757365}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A828F2-0CF6-4C5E-A774-9B9386757365}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
