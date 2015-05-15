@@ -66,7 +66,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\lucene-fluent-query-builder\LrNet.Lucene.Fluent.csproj">
+    <ProjectReference Include="..\LrNet.Lucene.Fluent\LrNet.Lucene.Fluent.csproj">
       <Project>{172996c4-cb1b-4344-a4be-397ffc8d50f0}</Project>
       <Name>LrNet.Lucene.Fluent</Name>
     </ProjectReference>

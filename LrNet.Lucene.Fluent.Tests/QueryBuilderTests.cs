@@ -3,7 +3,7 @@ using Lucene.Net.Analysis.Standard;
 using Lucene.Net.Util;
 using NUnit.Framework;
 
-namespace UnitTestProject1
+namespace LrNet.Lucene.Fluent.Tests
 {
     [TestFixture]
     class QueryBuilderTests

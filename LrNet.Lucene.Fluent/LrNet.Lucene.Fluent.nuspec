@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>LrNet.Lucene.Fluent</title>
+    <authors>Leland Richardson</authors>
+    <owners>Leland Richardson</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Building queries with Lucene's API can be a bit of a pain, if not at least verbose. This library tries to make writing queries as simple as possible using the Fluent interface pattern.</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Lucene, Lucene.Net, Fluent, Query</tags>
+  </metadata>
+</package>
