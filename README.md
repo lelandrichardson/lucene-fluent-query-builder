@@ -3,6 +3,13 @@
 Building queries with Lucene's API can be a bit of a pain, if not at least verbose. This class tries to make writing queries as simple as possible using the Fluent interface pattern.
 
 
+## Installation
+
+```bash
+PM> Install-Package LrNet.Lucene.Fluent
+```
+
+
 To get started, before using the query builder you will want to specify somewhere in your project:
 
 ```csharp
